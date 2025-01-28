@@ -3,10 +3,10 @@
 ## Project Overview
 This project is designed to monitor OEM (Original Equipment Manufacturer) websites for real-time vulnerability information and send targeted alerts to predefined email addresses. The primary goal is to track critical and high-severity vulnerabilities in IT and OT equipment for organizations in critical sectors.
 
-![dashboard](https://github.com/user-attachments/assets/adb51ca6-d434-45d5-9a91-f5ec11463d80)
-![table](https://github.com/user-attachments/assets/9fa86ede-fb4d-4110-8166-0a249ede61a5)
-![more-details](https://github.com/user-attachments/assets/5e912230-c172-48e5-b62b-d3ae33a7f610)
-![email](https://github.com/user-attachments/assets/e63ea210-9527-4048-a40a-bf29ff95694f)
+![dashboard](https://github.com/user-attachments/assets/7297e0f1-acf8-408c-b883-11a8887d9ba0)
+![table](https://github.com/user-attachments/assets/fb105b44-aa31-4342-bc20-1e0bc7cd7692)
+![more-details](https://github.com/user-attachments/assets/66bbf196-bd05-476f-a6d5-4bfdcf59b899)
+![email](https://github.com/user-attachments/assets/ce209d16-7935-4271-a747-257d194fdbe8)
 
 ---
 
