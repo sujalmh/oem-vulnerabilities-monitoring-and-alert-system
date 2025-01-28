@@ -1,0 +1,66 @@
+.nav-links a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 500;
+  font-size: 0.9rem; /* Small text */
+}
+
+.nav-links a:hover {
+  color: #ffffff; /* Brighter color on hover */
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.profile .username {
+  font-size: 0.875rem; /* Small text */
+  color: #e5e7eb;
+}
+
+.profile .username:hover {
+  color: #ffffff;
+}
+
+/* Dropdown Menu */
+.group-hover .dropdown {
+  display: block;
+}
+
+.dropdown {
+  display: none;
+  position: absolute;
+  right: 0;
+  margin-top: 0.5rem;
+  width: 8rem;
+  background: #ffffff;
+  border-radius: 0.375rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown button {
+  padding: 0.5rem 1rem;
+  width: 100%;
+  text-align: left;
+  color: #1f2937;
+  border: none;
+  background: none;
+  font-size: 0.875rem;
+  cursor: pointer;
+}
+
+.dropdown button:hover {
+  background: #f3f4f6;
+}
+
+.nav-links a {
+  color: #f6f6f6; /* Tailwind's text-gray-300 */
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #ffffff; /* Tailwind's text-white */
+}

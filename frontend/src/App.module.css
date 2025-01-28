@@ -1,0 +1,6 @@
+.main-container {
+    padding: 0.5rem 3rem;
+    margin-top: 3rem;    
+    min-height: 100vh;
+    background-color: #edf4fc;
+}

@@ -1,0 +1,14 @@
+/__pycache__/
+/migrations
+/test
+/app/__pycache__/
+/app/instance/
+/venv/
+/app/scrape/__pycache__/
+/app/scrape/tempCodeRunnerFile.py
+/app/scrape/try.py
+/app/scrape/.env
+/tutorials/*
+app/notes.ipynb
+/logs/*
+/logs/scraping.log

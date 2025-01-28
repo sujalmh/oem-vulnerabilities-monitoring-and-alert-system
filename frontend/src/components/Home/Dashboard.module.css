@@ -1,0 +1,7 @@
+.dashboard {
+    display: grid;
+    min-height: 70vh;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1.5fr;
+    gap: 0.7rem;
+}
