@@ -27,19 +27,18 @@ This project is designed to monitor OEM (Original Equipment Manufacturer) websit
    - Sends detailed email alerts to users with links to the vulnerability information.
 
 6. **Frontend Dashboard**:
-   - Node.js-based frontend where users can provide links for scraping.
+   - React-based frontend where users can provide links for scraping.
    - Displays a searchable and sortable table of vulnerability data stored in the database.
 
 ---
 
 ## Tech Stack
 - **Backend**: Python, Flask
-- **Frontend**: Node.js, React (optional for UI)
+- **Frontend**: React
 - **Database**: SQLite
-- **Web Scraping**: BeautifulSoup, Selenium (if required), OpenAI
+- **Web Scraping**: BeautifulSoup, Playwright, OpenAI
 - **Email Integration**: SMTP library
-- **Deployment**: WSGI server, Docker (optional)
-
+- **Scheduler**: APScheduler
 ---
 
 ## Usage
